@@ -1,4 +1,4 @@
-# Linux ZEN Package-builds
+# Linux ZEN PKGBUILDs
 PKGBUILDs for the Linux ZEN kernel, geared towards people with newer hardware who need a gaming optimized kernel that is built for their exact usecase! 💙🎮
 
 ## Uses [zen-kernel](https://github.com/zen-kernel/zen-kernel) codebase!
